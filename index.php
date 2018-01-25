@@ -11,7 +11,7 @@
     <title>Log-in</title>
   </head>
   <body class="w-100 h-100">
-    <div class="d-flex w-100 h-100 justify-content-center">
+    <div class="jumbotron d-flex w-100 h-100 justify-content-center">
       <div class="align-self-center">
         <h1>Accedi</h1>
         <form class="form-group">
