@@ -12,12 +12,14 @@
   </head>
   <body class="w-100 h-100">
     <div class="d-flex w-100 h-100 justify-content-center">
-      <div class="align-self-center"><h1>Accedi</h1></div>
-      <form class="form-group">
-        <input type="email" id="inputEmail" class="form-control mb-2" placeholder="Indirizzo e-mail" required autofocus>
-        <input type="password" id="inputPassword" class="form-control mb-2" placeholder="Password" required>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Conferma</button>
-      </form>
+      <div class="align-self-center">
+        <h1>Accedi</h1>
+        <form class="form-group">
+          <input type="email" id="inputEmail" class="form-control mb-2" placeholder="Indirizzo e-mail" required autofocus>
+          <input type="password" id="inputPassword" class="form-control mb-2" placeholder="Password" required>
+          <button class="btn btn-lg btn-primary btn-block" type="submit">Conferma</button>
+        </form>
+      </div>
     </div>
 
     <!-- Optional JavaScript -->
