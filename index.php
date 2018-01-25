@@ -8,16 +8,16 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Log-in</title>
+    <title>Foglio Accessi</title>
   </head>
   <body class="w-100 h-100">
     <div class="jumbotron d-flex w-100 h-100 justify-content-center">
       <div class="align-self-center">
-        <h1>Accedi</h1>
+        <h1><a class="badge badge-warning align-self-center" href=".">+</a> Nuovo</h1>
         <form class="form-group">
           <input type="email" id="inputEmail" class="form-control mb-2" placeholder="Indirizzo e-mail" required autofocus>
           <input type="password" id="inputPassword" class="form-control mb-2" placeholder="Password" required>
-          <button class="btn btn-lg btn-primary btn-block" type="submit">Conferma</button>
+          <button class="btn btn-lg btn-warning btn-block" type="submit">Conferma</button>
         </form>
       </div>
     </div>
