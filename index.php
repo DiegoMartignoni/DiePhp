@@ -8,10 +8,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Log-in</title>
   </head>
   <body class="w-100 h-100">
-    <h1>Hello, world!</h1>
+    <div class="d-flex w-100 h-100 text-center">
+      <div class="align-self-center"><h1>Accedi</h1></div>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
