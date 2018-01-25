@@ -14,7 +14,7 @@
     <div class="jumbotron mb-0 d-flex w-100 h-100 justify-content-center">
       <div class="align-self-center">
         <h1><a class="badge badge-warning align-self-center" href=".">+</a> Nuovo</h1>
-        <form class="form-group" action="/UtentePassword.php" method="get">
+        <form class="form-group" action="http://diegomartignoni.altervista.org/heroku/diephp/UtentePassword.php" method="get">
           <input type="email" id="inputEmail" class="form-control mb-2" placeholder="Indirizzo e-mail" required autofocus>
           <input type="password" id="inputPassword" class="form-control mb-2" placeholder="Password" required>
           <button class="btn btn-lg btn-warning btn-block" type="submit">Conferma</button>
