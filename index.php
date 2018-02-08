@@ -16,7 +16,7 @@
         <h1><a class="badge badge-info align-self-center" href=".">+</a> Lista</h1>
         <form class="form-group" action="http://diegomartignoni.altervista.org/heroku/diephp/lista.php" method="get">
           <input type="text" name="titolo" class="form-control mb-2" placeholder="Titolo" required autofocus>
-          <input type="text" name="corpo" class="form-control mb-2" placeholder="Corpo" required>
+          <textarea name="corpo" class="form-control mb-2" placeholder="Corpo" required rows="5"></textarea>
           <button class="btn btn-lg btn-info btn-block" type="submit">Salva</button>
         </form>
       </div>
