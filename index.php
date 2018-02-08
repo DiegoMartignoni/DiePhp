@@ -13,11 +13,11 @@
   <body class="w-100 h-100">
     <div class="jumbotron mb-0 d-flex w-100 h-100 justify-content-center">
       <div class="align-self-center">
-        <h1><a class="badge badge-warning align-self-center" href=".">+</a> Lista</h1>
+        <h1><a class="badge badge-info align-self-center" href=".">+</a> Lista</h1>
         <form class="form-group" action="http://diegomartignoni.altervista.org/heroku/diephp/lista.php" method="get">
           <input type="text" name="titolo" class="form-control mb-2" placeholder="Titolo" required autofocus>
           <input type="text" name="corpo" class="form-control mb-2" placeholder="Corpo" required>
-          <button class="btn btn-lg btn-warning btn-block" type="submit">Salva</button>
+          <button class="btn btn-lg btn-info btn-block" type="submit">Salva</button>
         </form>
       </div>
     </div>
